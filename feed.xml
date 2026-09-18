@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F1 Fantasy &amp; Race Strategy Fanatics Hub</title>
+    <link>https://jibranpcccc.github.io/f1-fantasy-race-strategy-fanatics-hub/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Fri, 18 Sep 2026 06:13:13 GMT</lastBuildDate>
+    <atom:link href="https://jibranpcccc.github.io/f1-fantasy-race-strategy-fanatics-hub/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>F1 Fantasy &amp; Race Strategy Fanatics Hub Initial Release</title>
+      <link>https://jibranpcccc.github.io/f1-fantasy-race-strategy-fanatics-hub/</link>
+      <pubDate>Fri, 18 Sep 2026 06:13:13 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
